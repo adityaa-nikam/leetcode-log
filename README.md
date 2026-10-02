@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
