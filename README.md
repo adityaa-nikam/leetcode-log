@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
