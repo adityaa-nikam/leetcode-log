@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
