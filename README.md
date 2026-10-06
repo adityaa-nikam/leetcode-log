@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0888-fair-candy-swap) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
