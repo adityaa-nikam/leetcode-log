@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0888-fair-candy-swap) |
+| [0908-smallest-range-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
+| [0908-smallest-range-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0908-smallest-range-i) |
 | [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
