@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0367-valid-perfect-square) |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
