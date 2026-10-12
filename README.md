@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0303-range-sum-query-immutable) |
