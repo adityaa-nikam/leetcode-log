@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0067-add-binary) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0202-happy-number) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
