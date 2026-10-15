@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0326-power-of-three) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
