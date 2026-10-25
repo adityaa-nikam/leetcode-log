@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1572-matrix-diagonal-sum) |
+| [1652-defuse-the-bomb](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -441,4 +442,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
+| [1652-defuse-the-bomb](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
