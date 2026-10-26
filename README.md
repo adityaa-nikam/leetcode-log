@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1652-defuse-the-bomb) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
