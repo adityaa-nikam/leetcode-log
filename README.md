@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
+| [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -264,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0709-to-lower-case) |
+| [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0912-sort-an-array) |
+| [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
