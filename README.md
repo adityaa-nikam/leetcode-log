@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0888-fair-candy-swap) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0706-design-hashmap) |
 ## Tree
 |  |
 | ------- |
@@ -444,11 +447,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
