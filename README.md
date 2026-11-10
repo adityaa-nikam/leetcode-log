@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0908-smallest-range-i) |
 | [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
+| [1103-distribute-candies-to-people](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1103-distribute-candies-to-people) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
