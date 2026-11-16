@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -434,10 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -511,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2094-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
