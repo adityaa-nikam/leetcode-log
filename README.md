@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0709-to-lower-case) |
 | [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
+| [3174-clear-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3174-clear-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
