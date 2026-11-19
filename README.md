@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0643-maximum-average-subarray-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0705-design-hashset) |
