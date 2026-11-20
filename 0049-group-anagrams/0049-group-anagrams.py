@@ -1,9 +1,7 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap = {}
-        for word in strs:
-            key = ''.join(sorted(word))
-            if key not in hashmap:
-                hashmap[key] = []
-            hashmap[key].append(word)
-        return list(hashmap.values())
+
+  def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+    res = defaultdict(list)
+    for s in strs:
+      res["".join(sorted(s))].append(s)
+    return list(res.values())
