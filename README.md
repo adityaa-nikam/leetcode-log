@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0696-count-binary-substrings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0709-to-lower-case) |
 | [1763-longest-nice-substring](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1763-longest-nice-substring) |
 | [3174-clear-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3174-clear-digits) |
