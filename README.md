@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0575-distribute-candies) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0696-count-binary-substrings) |
