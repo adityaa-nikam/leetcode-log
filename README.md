@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0645-set-mismatch) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0605-can-place-flowers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Memoization
