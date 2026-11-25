@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0908-smallest-range-i) |
+| [1025-divisor-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1103-distribute-candies-to-people) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1025-divisor-game) |
 ## Database
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
 | ------- |
