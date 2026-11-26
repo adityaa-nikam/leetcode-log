@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/adityaa-nikam/leetcode-practice-JAVA/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
